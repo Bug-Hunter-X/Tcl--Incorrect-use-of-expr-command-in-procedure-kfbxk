@@ -1,0 +1,1 @@
+proc correct_proc {a b} {set c [expr {$a + $b}]; return $c} 
